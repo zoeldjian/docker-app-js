@@ -1,0 +1,5 @@
+[web]
+54.179.111.253 ansible_user=root
+
+[web:vars]
+ansible_python_interpreter=/usr/bin/python3
